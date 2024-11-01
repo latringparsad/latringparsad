@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @latringparsad
+- 👋 Hi, I’m LuckyLive
 - 👀 I’m interested in you
 - 🌱 I’m currently learning web-development
 - 💞️ I really don't know what to do with it
